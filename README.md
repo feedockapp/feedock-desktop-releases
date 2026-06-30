@@ -1,7 +1,7 @@
 # Feedock Desktop — Releases
 
 Signed, notarized **macOS build artifacts** and the auto-update manifest
-(`latest.json`) for the [Feedock](https://feedock.app) desktop app.
+(`latest.json`) for the [Feedock](https://feedock.com) desktop app.
 
 > **This repository contains no source code.** It hosts only the compiled
 > installers (`.dmg`, `.app.tar.gz`) and their minisign signatures, published
